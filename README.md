@@ -13,9 +13,10 @@ $ npm start
 - Group Bot [group bot](https://chat.whatsapp.com/Bs2eptyeXtd9icSiYSYbO0)
 
 ## WHO HAVE HELPED WITH THIS PROJECT
-- Allah SWT
+* Allah SWT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* Tabrak Lurus Team
+* [`Lol human`](https://lolhuman.xyz)
 * [`WhyDepin`](https://github.com/WhyDepin)
 * [`Dinata`](https://github.com/rezadinata18)
+* Team Tabrak Lurus
 
