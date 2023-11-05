@@ -16,8 +16,6 @@ $ npm start
 - Allah SWT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * Tabrak Lurus Team
-* [`WhyDepin`]
-(https://github.com/WhyDepin)
-* [`Dinata`]
-(https://github.com/rezadinata18)
+* [`WhyDepin`](https://github.com/WhyDepin)
+* [`Dinata`](https://github.com/rezadinata18)
 
