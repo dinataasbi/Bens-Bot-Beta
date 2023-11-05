@@ -12,5 +12,10 @@ $ npm start
 - Base [base bot](https://github.com/WhyDepin/baileys-bot-whatsapp)
 - Group Bot [group bot](https://chat.whatsapp.com/Bs2eptyeXtd9icSiYSYbO0)
 
-
+## Thanks to
+• Allah SWT
+• Whiskeysockets/baileys
+• Team Tabrak Lurus
+• [WhyDepin] (https://github.com/WhyDepin)
+• [Dinata] (https://github.com/rezadinata18)
 
