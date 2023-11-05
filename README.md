@@ -16,6 +16,8 @@ $ npm start
 - Allah SWT
 - Whiskeysockets/baileys
 - Team Tabrak Lurus
-- [WhyDepin] (https://github.com/WhyDepin)
-- [Dinata] (https://github.com/rezadinata18)
+- [WhyDepin]
+(https://github.com/WhyDepin)
+- [Dinata]
+(https://github.com/rezadinata18)
 
